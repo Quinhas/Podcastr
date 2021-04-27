@@ -7,4 +7,11 @@ Projeto desenvolvido durante a [Next Level Week #5](https://nextlevelweek.com/) 
 - [x] Aula 2
 - [x] Aula 3
 - [x] Aula 4
-- [ ] Aula 5
+- [x] Aula 5
+
+## Desafios
+
+- [ ] Responsivo
+- [ ] PWA
+- [ ] Dark Theme
+- [ ] Electron (Desktop)
