@@ -12,7 +12,7 @@
 
 ## 💻 Projeto
 
-Esse é um projeto desenvolvido durante a [Next Level Week #5](https://nextlevelweek.com/), apresentado pela [Rocketseat](https://rocketseat.com.br) entre 19 a 25 de Abril de 2021. 💜
+[Podcastr](https://podcastr-quinhas.vercel.app/) é um projeto desenvolvido durante a [Next Level Week #5](https://nextlevelweek.com/), apresentado pela [Rocketseat](https://rocketseat.com.br) entre 19 a 25 de Abril de 2021. 💜
 
 - [x] Aula 1
 - [x] Aula 2
